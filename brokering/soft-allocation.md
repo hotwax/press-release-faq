@@ -10,13 +10,13 @@ When customers build a list on eCommerce, like a wishlist or shopping cart, soft
 
 HotWax Commerce will integrate with a merchant’s existing shipping carriers to align with their same-day delivery policy. Merchants that haven’t already done so, will also have to input latitude and longitude information for each of their participating fulfillment locations for soft allocation brokering to calculate accurate distance. Developer intervention will be needed to create a customized front-end experience in places like the micro cart. HotWax can provide frontend Shopify development or provide API details if the merchant has a Shopify agency of choice.
 
-* Internal quote *
+*Internal quote*
 
-* Customer quote *
+*Customer quote*
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce and learn more about the soft allocation brokering solution.
 
 
-** Q: **
+**Q:**
 
-** A: **
+**A:**
