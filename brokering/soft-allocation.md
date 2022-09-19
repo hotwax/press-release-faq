@@ -9,3 +9,14 @@ Merchants may unknowingly accept orders that do not meet the eligibility criteri
 When customers build a list on eCommerce, like a wishlist or shopping cart, soft allocation submits their list to HotWax Commerce for evaluation. Soft allocation will evaluate the list of submitted items and the proposed destination zip code against the criteria predefined by the retailers to validate same-day shipping eligibility in compliance with shipping carriers like Shipt, Shipssi. Evaluation will be done by proximity limits set by the shipping carrier in addition to configurable parameters like store operating hours, lead time and order splitting. This gating mechanism will stop disqualified orders from being sent to shipping providers as well as will convey customers actionable information.
 
 HotWax Commerce will integrate with a merchant’s existing shipping carriers to align with their same-day delivery policy. Merchants that haven’t already done so, will also have to input latitude and longitude information for each of their participating fulfillment locations for soft allocation brokering to calculate accurate distance. Developer intervention will be needed to create a customized front-end experience in places like the micro cart. HotWax can provide frontend Shopify development or provide API details if the merchant has a Shopify agency of choice.
+
+* Internal quote *
+
+* Customer quote *
+
+To start using the feature, merchants can get in touch with an account manager at HotWax Commerce and learn more about the soft allocation brokering solution.
+
+
+** Q: **
+
+** A: **
