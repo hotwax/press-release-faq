@@ -10,14 +10,15 @@ HotWax Commerce will push actual on-order inventory levels to Shopify for every 
 
 Merchants already upload purchase orders to HotWax Commerce, so they will automatically receive this feature to push pre-orderable quantity from purchase orders and to Shopify. 
 
-Internal quote
+*Internal quote*
 
-Customer quote
+*Customer quote*
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce.
 
 ## FAQs
 
-Question 1: How can we use this feature when test new commit
-Internal FAQs
+### Question 1: How can we use this feature when test new commit
+
+##Internal FAQs
 
