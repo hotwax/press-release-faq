@@ -20,5 +20,5 @@ To start using the feature, merchants can get in touch with an account manager a
 
 ### Question 1: How can we use this feature when test new commit
 
-##Internal FAQs
+## Internal FAQs
 
