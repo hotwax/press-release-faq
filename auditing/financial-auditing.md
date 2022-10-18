@@ -31,7 +31,7 @@ Question 1. Do we need to independently develop integration with every ERP syste
 
 Question 2. How would OReSA identify the exact cause of variations?
 
-Question 4: After a variance has been identified, who would ultimately resolve the issue?
+Question 3: After a variance has been identified, who would ultimately resolve the issue?
 
-Question 3. How would we deliver these reports to our clients?
+Question 4. How would we deliver these reports to our clients?
 
