@@ -16,7 +16,17 @@ HotWax Commerce will integrate with a merchant’s existing shipping carriers to
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce and learn more about the soft allocation brokering solution.
 
+## FAQs
 
-**Q:**
+Question 1: Can a customer check same-day delivery for multiple zip codes?
+Question 2: What would happen when a cart has multiple items and only a few of them are available for same-day delivery? 
+Question 3: Can customers place orders post store’s operating hours?
+Question 4: What steps would the system take if a shipping carrier denies same-day order fulfillment?
 
-**A:**
+## Internal FAQs
+
+Question 1: Will there be a seperate queue to broker orders eligible for same-day delivery?
+
+Answer: When the order is imported into HotWax Commerce, it will already have a ship from the location attached to it, so it will go straight to the fulfillment location without waiting for brokering.
+
+Question 2: Would our existing brokering algorithm work for soft allocation brokering? Or do we need to write/develop a new brokering algorithm?
