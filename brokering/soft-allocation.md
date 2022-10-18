@@ -19,8 +19,11 @@ To start using the feature, merchants can get in touch with an account manager a
 ## FAQs
 
 Question 1: Can a customer check same-day delivery for multiple zip codes?
+
 Question 2: What would happen when a cart has multiple items and only a few of them are available for same-day delivery? 
+
 Question 3: Can customers place orders post store’s operating hours?
+
 Question 4: What steps would the system take if a shipping carrier denies same-day order fulfillment?
 
 ## Internal FAQs
