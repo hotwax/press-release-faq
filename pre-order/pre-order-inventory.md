@@ -18,7 +18,7 @@ To start using the feature, merchants can get in touch with an account manager a
 
 ## FAQs
 
-### Question 1:
+Question 1:
 
 ## Internal FAQs
 
