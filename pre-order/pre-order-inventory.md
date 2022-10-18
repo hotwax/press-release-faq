@@ -1,6 +1,6 @@
 # Pre-order inventory on Shopify
 
-Merchants want to make sure they don't oversell when taking pre-orders because of gaps in scheduled jobs.
+## Merchants want to make sure they don't oversell when taking pre-orders because of gaps in scheduled jobs.
 
 Calculating pre-orderable inventory directly in Shopify as pre-orders are captured on eCommerce helps retailers ensure that they oversell as little as possible. Customers that order multiple quantities of the same SKU can also be stopped from over ordering right from the product detail page, which often helps with B2B sellers.
 
@@ -18,7 +18,7 @@ To start using the feature, merchants can get in touch with an account manager a
 
 ## FAQs
 
-### Question 1: How can we use this feature when test new commit
+### Question 1:
 
 ## Internal FAQs
 
