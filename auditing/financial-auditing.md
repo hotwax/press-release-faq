@@ -16,3 +16,22 @@ If a merchant has a third-party ERP system that does not have a pre-built integr
 *Customer quote*
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce and request their auditing tool be scheduled at a frequency of their choosing.
+
+## FAQs
+
+Question 1. What is the recommended frequency to schedule these reports?
+
+Question 2. What could be possible reasons behind variations in monthly sales, returns or appeasement figures?
+
+Question 3. Would the OReSA tool report the exact order causing the discrepancy?
+
+## Internal FAQs
+
+Question 1. Do we need to independently develop integration with every ERP system? Or is there some kind of self service mapping tool?
+
+Question 2. How would OReSA identify the exact cause of variations?
+
+Question 4: After a variance has been identified, who would ultimately resolve the issue?
+
+Question 3. How would we deliver these reports to our clients?
+
