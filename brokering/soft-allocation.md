@@ -32,4 +32,4 @@ Question 1: Will there be a seperate queue to broker orders eligible for same-da
 
 Answer: When the order is imported into HotWax Commerce, it will already have a ship from the location attached to it, so it will go straight to the fulfillment location without waiting for brokering.
 
-Question 2: Would our existing brokering algorithm work for soft allocation brokering? Or do we need to write/develop a new brokering algorithm?
+Question 2: Would our existing brokering algorithm work for soft allocation brokering? Or do we need to develop a new brokering algorithm?
