@@ -8,7 +8,7 @@ Managing cycle counts requires a lot of manual communication, especially for mer
 
 Staff managing cycle counts will receive real time push notifications when a cycle count is assigned to them. Entire list of items that must be counted or recounted will be visible in the cycle count app, keeping everyone in the operation up to date with upcoming tasks. The ability to track a dynamic list of items that need reconciliation leaves no room for ambiguity. Systematic workflow will also allow merchants to respond quickly to inventory discrepancies and take corrective measures if any inventory inaccuracy is identified.
 
-Merchants will automatically receive the feature to reconcile inventory count. They can request cycle counts from the product inventory page by selecting a facility where they want to re-count inventory. 
+Merchants will automatically receive the feature to reconcile inventory counts. They can request cycle counts from the product inventory page by selecting a facility where they want to re-count inventory. 
 
 *Internal quote* 
 
