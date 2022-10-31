@@ -1,8 +1,8 @@
-# Before placing an order on eCommerce, customers want to know how quickly they can receive it.
+# Soft allocation brokering 
 
-## Soft allocation brokering allows customers to check in real time if a selected list of items, like their shopping cart, is eligible for same-day delivery.
+## Before placing an order on eCommerce, customers want to know how quickly they can receive it.
 
-The feature determines if a product can be delivered within one day according to the customer’s zip code. A clear distinction stating whether items are available for same-day delivery or not, lets customers make a faster purchasing decision.
+Soft allocation brokering allows customers to check in real time if a selected list of items, like their shopping cart, is eligible for same-day delivery. The feature determines if a product can be delivered within one day according to the customer’s zip code. A clear distinction stating whether items are available for same-day delivery or not, lets customers make a faster purchasing decision.
 
 Merchants may unknowingly accept orders that do not meet the eligibility criteria for same-day delivery and therefore face higher order rejection rates from their shipping providers. As a result, false commitments, shipping delays or order cancellations make customers feel less confident about using same-day shipping. Merchants’ eCommerce usually reflect a static estimated ship date on the PDP irrespective of a customer’s location. Long shipping times, not personalized to customers’ location results in abandoned shopping carts.
 
