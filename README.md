@@ -1,4 +1,4 @@
-Referenced form [press-release-faq guildines](https://medium.com/agileinsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31)
+Referenced from [press-release-faq guidelines](https://medium.com/agileinsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31)
 
 # Press Release
 ## Heading
