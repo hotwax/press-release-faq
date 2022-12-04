@@ -16,16 +16,17 @@ Merchants already upload purchase orders to HotWax Commerce, so they will automa
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce.
 
-## FAQs
+### FAQs
 
-Question 1: How can we use this feature if we do not manage POs?
+#### Question 1: How can we use this feature if we do not manage POs?
 
-Question 2: What happens to the ATP when a PO is canceled?
+#### Question 2: What happens to the ATP when a PO is canceled?
 
-## Internal FAQs
+### Internal FAQs
 
-Question 1: Which APIs will push the on-order inventory to Shopify?
+#### Question 1: Which APIs will push the on-order inventory to Shopify?
 
-Question 2:  Would we populate meta-fields on pre-order items to implement this feature?
-Question 3: If we store the ATP in a metafield, how do we keep track of sales and update the metafields?
+#### Question 2:  Would we populate meta-fields on pre-order items to implement this feature?
+
+#### Question 3: If we store the ATP in a metafield, how do we keep track of sales and update the metafields?
 
