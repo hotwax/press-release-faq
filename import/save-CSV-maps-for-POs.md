@@ -16,14 +16,14 @@ Merchandisers will automatically receive the feature to save their preferable CS
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce. 
 
-## FAQs
+### FAQs
 
-Question 1: Is it possible to save different CSV maps POs in case of multiple vendors?
+#### Question 1: Is it possible to save different CSV maps POs in case of multiple vendors?
 
-Question 2: How can we edit or delete a custom PO mapping?
+#### Question 2: How can we edit or delete a custom PO mapping?
 
 ## Internal FAQs
 
-Question 1: Which APIs will be exposed to create this feature?
+#### Question 1: Which APIs will be exposed to create this feature?
 
-Question 2: How will we manage the backend support for this feature?
+#### Question 2: How will we manage the backend support for this feature?

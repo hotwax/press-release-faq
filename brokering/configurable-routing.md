@@ -16,18 +16,18 @@ Merchants using HotWax Commerce can create their set of order routing rules, sch
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce. 
 
-## FAQs
+### FAQs
 
-Question 1: How many times can we schedule a brokering run?
+#### Question 1: How many times can we schedule a brokering run?
 
-Question 2: Is it also possible to change the frequency of the brokering run?
+#### Question 2: Is it also possible to change the frequency of the brokering run?
 
-Question 3: Is there a limit on the number of parameters that we can set?
+#### Question 3: Is there a limit on the number of parameters that we can set?
 
-Question 4: Can we route orders to a group of facilities in a specific region?
+#### Question 4: Can we route orders to a group of facilities in a specific region?
 
-Question 5: What could be the possible outcomes for unfillable orders?
+#### Question 5: What could be the possible outcomes for unfillable orders?
 
-Question 6: Can we automatically allow order splitting if order items are dependable?
+#### Question 6: Can we automatically allow order splitting if order items are dependable?
 
-Question 7: What actions can we define for orders when only partial inventory is available?
+#### Question 7: What actions can we define for orders when only partial inventory is available?

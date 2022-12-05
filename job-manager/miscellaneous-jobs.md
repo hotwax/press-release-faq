@@ -16,22 +16,22 @@ Merchants using HotWax Commerce already have access to the Job Manager app, new 
 
 To start using this feature, merchants can get in touch with an account manager at HotWax to help them add the required set of custom jobs.
 
-## FAQs
+### FAQs
 
-Question 1: Is there a limit on how many custom jobs can be accommodated in the Job Manager app?
+#### Question 1: Is there a limit on how many custom jobs can be accommodated in the Job Manager app?
 
-Question 2: Can we also create a new category in the Job Manager app?
+#### Question 2: Can we also create a new category in the Job Manager app?
 
-Question 3: Can we alter a job’s predefined frequency and apply a custom frequency?
+#### Question 3: Can we alter a job’s predefined frequency and apply a custom frequency?
 
-Question 4: Is it possible to delete a Miscellaneous Job?
+#### Question 4: Is it possible to delete a Miscellaneous Job?
 
-Question 5: Can users also pin Miscellaneous Jobs like predefined jobs?
+#### Question 5: Can users also pin Miscellaneous Jobs like predefined jobs?
 
-## Internal FAQs
+### Internal FAQs
 
-Question 1: Merchants can still see custom jobs in the pipeline page, what value does this add?
+#### Question 1: Merchants can still see custom jobs in the pipeline page, what value does this add?
 
-Question 2: What would be the process to update the type of any existing job?
+#### Question 2: What would be the process to update the type of any existing job?
 
-Question 3: How would we accommodate a miscellaneous job into the current hardcoded job sections?
+#### Question 3: How would we accommodate a miscellaneous job into the current hardcoded job sections?
