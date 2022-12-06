@@ -28,6 +28,8 @@ To start using this feature, merchants can get in touch with an account manager 
 
 #### Question 5: Can users also pin Miscellaneous Jobs like predefined jobs?
 
+#### Question 6: Why is it named miscellaneous jobs but not custom jobs? As these jobs are custom made for retailers, I believe naming and categorising them as custom jobs rather miscellaneous jobs, will be more clear for user.
+
 ### Internal FAQs
 
 #### Question 1: Merchants can still see custom jobs in the pipeline page, what value does this add?
