@@ -32,6 +32,6 @@ Answer: HotWax will create a product store setting to save the custom date forma
 
 #### Question 2: Which tool will provide the data on date formats supported by HotWax?
 
-Answer: Import App users can check the [Luxon date time format](url) to view the list of all available date formats right from the settings page.
+Answer: Import App users can check the [Luxon date time format](https://moment.github.io/luxon/#/formatting?id=table-of-tokens) to view the list of all available date formats right from the settings page.
 
 
