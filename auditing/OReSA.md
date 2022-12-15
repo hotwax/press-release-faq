@@ -1,8 +1,8 @@
 # Omnichannel Retail Sales Audit tool (OReSA)
 
-## Merchants need an automated auditing tool to ensure sales, returns and assessments are synchronized across all systems.
+## Merchants need an automated auditing tool to ensure sales, returns and appeasements are synchronized across all systems.
 
-Omnichannel Retail Sales Audit allows merchants to reconcile sales, returns and appeasement from their eCommerce, OMS and ERP. Merchants will be able to effortlessly find gaps and identify any missing line items through scheduled daily or monthly itemized reports for integrated systems.
+Omnichannel Retail Sales Audit allows merchants to reconcile sales, returns and appeasements from their eCommerce, OMS and ERP. Merchants will be able to effortlessly find gaps and identify any missing line items through scheduled daily or monthly itemized reports for integrated systems.
 
 Pinpointing the causes of any discrepancy is extremely difficult for merchants when periodic reconciliations like, monthly sales, returns or appeasement figures in ERP, OMS, and eCommerce do not match. Manually identifying discrepancies is tedious and often inaccurate. After finding gaps, filling variances between systems for a large number of records can take an extended period of time for auditors. Additionally, when these processes are manual, their frequency is much lower, often once a month or quarter allowing discrepncies to build up and become larger issues.
 
