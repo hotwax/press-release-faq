@@ -1,12 +1,12 @@
 # .github/release.yml
 
 changelog:
-categories:
-  - title: PRs released this week 🎢
-    labels: 
-     - New PR
-  - title: Other changes
-    labels: 
-     - "*"
+  categories:
+    - title: PRs released this week 🎢
+      labels: 
+       - New PR
+    - title: Other changes
+      labels: 
+       - "*"
   
   
