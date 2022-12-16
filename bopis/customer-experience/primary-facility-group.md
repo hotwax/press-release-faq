@@ -16,18 +16,18 @@ To display featured stores on PDP, merchants will need to get their Shopify pick
 
 ### FAQs
 
-#### Question 1: Is the PDP experience to display the primary brand customizable?
+**Question 1: Is the PDP experience to display the primary brand customizable?**
 
 Answer: Yes, BOPIS PDP experience is configurable. Merchants can propose their preferred frontend experience to their Shopify agency.
 
 ### Internal FAQs
 
-#### Question 1: If a primary brand is holding inventory for multiple brands, how will we store the inventory information in our system?
+**Question 1: If a primary brand is holding inventory for multiple brands, how will we store the inventory information in our system?**
 
 Answer: When calculating online ATP for an item HotWax Commerce does not check its associated brand. Inventory count is recorded and updated at a facility level. Therefore, HotWax Commerce will directly sync the inventory changes at the primary brand facility that is holding inventory for other brands as well.
 
-#### Question 2: Which API’s will be used to display the operating brand details on PDP?
+**Question 2: Which API’s will be used to display the operating brand details on PDP?**
 
-#### Question 3: How will we associate the brand name with the facility?
+**Question 3: How will we associate the brand name with the facility?**
 
 Answer: HotWax Commerce will create facility groups for each brand. Users can define the brand operating a facility by associating it with a brand group. 

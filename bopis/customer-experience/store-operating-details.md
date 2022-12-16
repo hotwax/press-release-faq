@@ -18,14 +18,14 @@ To start using the solution, merchants can get in touch with an account manager 
 
 ### FAQs
 
-#### Question 1: Would the BOPIS orders received at the closing time be fulfilled next day?
+**Question 1: Would the BOPIS orders received at the closing time be fulfilled next day?**
 
-#### Question 2: Based on a store’s operating hours, if a BOPIS order cannot be fulfilled same-day, can we edit the messaging and display “pick-up tomorrow”?
+**Question 2: Based on a store’s operating hours, if a BOPIS order cannot be fulfilled same-day, can we edit the messaging and display “pick-up tomorrow”?**
 
 ### Internal FAQs
 
-#### Question 1:  Which APIs will be used to deliver the required experience on PDP and checkout page?
+**Question 1:  Which APIs will be used to deliver the required experience on PDP and checkout page?**
 
-#### Question 2: If a client uses google my business, can we integrate and migrate store operating details from there?
+**Question 2: If a client uses google my business, can we integrate and migrate store operating details from there?**
 
-#### Question 3: Do we have a predefined list of holidays that we can by default offer our clients?
+**Question 3: Do we have a predefined list of holidays that we can by default offer our clients?**
