@@ -16,16 +16,16 @@ Users using HotWax Commerce BOPIS fulfillment app will receive instant push noti
 
 ### FAQs
 
-#### Question 1: Once an order is ready for pick-up, how will we send customers order updates?
+**Question 1: Once an order is ready for pick-up, how will we send customers order updates?**
 
 Answer: HotWax integrates with the merchant’s email platform to send customers order updates. Once the store associate marks an order “ready for pick-up”, HotWax notifies the customer by triggering an email update.
 
-#### Question 2: When are reminder notifications triggered for orders in the pending state? Is it also possible to configure this duration?
+**Question 2: When are reminder notifications triggered for orders in the pending state? Is it also possible to configure this duration?**
 
 Answer: Default time to send push notifications for pending orders is one hour. Retailers may customize this time as per the need.
 
 ### Internal FAQs
 
-#### Question 1: Which platform HotWax will connect to serve push notifications?
+**Question 1: Which platform HotWax will connect to serve push notifications?**
 
 Answer: HotWax uses Firebase technology offered by Google to broadcast the information to the BOPIS fulfillment App.
