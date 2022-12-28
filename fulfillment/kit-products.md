@@ -2,7 +2,7 @@
 
 ## The OMS should support kit products for retailers who sell bundle products on Shopify.
 
-Retailers that use the Bundles App, list kit products on their eCommerce as bundle offerings. Kit products do not have their own physical inventory and instead represent a collection of multiple sellable products. When an order with a kit product is imported into the OMS, its components are added into the order and sent to a separate ship group, ensuring items that make up a kit product are delivered together. Since fulfillment teams will pick, pack, and ship the kit product’s components, each component will be marked as shipped in the OMS, updating status for the kit product to complete in HotWax and fulfilled in Shopify.
+Retailers that use the Bundles App, list kit products on their Shopify eCommerce as bundle offerings. Kit products do not have their own physical inventory and instead represent a collection of multiple sellable products. When an order with a kit product is imported into the OMS, its components are added into the order and sent to a separate ship group, ensuring items that make up a kit product are delivered together. Since fulfillment teams will pick, pack, and ship the kit product’s components, each component will be marked as shipped in the OMS, updating status for the kit product to complete in HotWax and fulfilled in Shopify.
 
 Since a kit product only represents its components and has no physical inventory, the OMS will not broker orders with kit products until its components that actually have inventory are reflected in the order. Not fulfilling orders as per the schedule results in a poor customer experience, increased customer complaints and adds to CSRs workload.
 
