@@ -16,7 +16,7 @@ Merchandisers using HotWax Commerce Import App for managing their purchase order
 
 ### FAQs
 
-**Question1: Do we need to remap the PO fields after receiving a warning message for uploading PO with the same reference ID?**
+**Question 1: Do we need to remap the PO fields after receiving a warning message for uploading PO with the same reference ID?**
 
 Answer: No, Import App users can directly rename the PO without having to remap the PO fields.
 
@@ -30,6 +30,6 @@ Answer: Currently the feature is not available but HotWax can implement auto-nam
 
 ### Internal FAQs
 
-**Question1: Which APIs will be used to identify the duplicate PO ID and display the warning message?**
+**Question 1: Which APIs will be used to identify the duplicate PO ID and display the warning message?**
 
 Answer: The app will run a SOLR query to identify a duplicate PO ID. The query looks up if a PO ID already exists in its index and reads the results. If the search response hits a matching PO ID, the Import App displays the warning message.

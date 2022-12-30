@@ -14,19 +14,19 @@ Merchants can audit and correct pre-order items details right from the view prod
 
 *Customer quote*
 
-## FAQs
+### FAQs
 
-#### Question 1: When pre-order details are corrected in HotWax, how will changes be synced in Shopify?
+**Question 1: When pre-order details are corrected in HotWax, how will changes be synced in Shopify?**
 
 Answer: Corrections in pre-order items details will be synced in Shopify via Rest API. 
 
-#### Question 2: In case of multiple Shopify stores, how will we audit pre-order items statuses?
+**Question 2: In case of multiple Shopify stores, how will we audit pre-order items statuses?**
 
 Answer: View product page will display pre-order item’s status for each Shopify config so the status can be validated for all the Shopify stores at once.
 
-## Internal FAQs
+### Internal FAQs
 
-#### Question 1: Will HotWax identify the exact cause of pre-order item’s status variations?
+**Question 1: Will HotWax identify the exact cause of pre-order item’s status variations?**
 
 Answer: The product view page will display the most recent records of HotWax’s product category decision reason table. These details help users identify when and why a pre-order item has been added or removed from the pre–order category. GraphQL logs for the selected variant will also be shown for each Shopify store selling the product to help easily check recent relevant API calls from HotWax to list or delist the product for pre-order.
 

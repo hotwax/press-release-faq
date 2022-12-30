@@ -16,24 +16,24 @@ Merchants using HotWax Commerce will already receive the feature to filter sales
 
 ### FAQs
 
-#### Question 1: Would the list of orders also include canceled orders?
+**Question 1: Would the list of orders also include canceled orders?**
 
 Answer: Yes, all sales orders associated with a PO, including canceled orders, will be displayed.
 
-#### Question 2: If a customer has placed a mixed cart order, would the results only reflect the pre-order item or would it also include the regular item?
+**Question 2: If a customer has placed a mixed cart order, would the results only reflect the pre-order item or would it also include the regular item?**
 
 Answer: Only the order item associated with the PO is visible in the search results, however, on clicking into an order, all of the items in the order are displayed.
 
-#### Question 3: Is it still possible to view all the sales orders received against a PO, even after the on-order inventory has been received?
+**Question 3: Is it still possible to view all the sales orders received against a PO, even after the on-order inventory has been received?**
 
 Answer: Yes, PO allocations can be viewed even after the on-order inventory has been physically received because the PO association is saved as a corresponding PO on the sales order item.
 
-#### Question 4: Would it be possible to search PO allocations directly from the find order page?
+**Question 4: Would it be possible to search PO allocations directly from the find order page?**
 
 Answer: No, users must go to the purchase order find page, select the purchase order for which they want to check the received sales orders, and then click on the link to view all PO allocations.
 
 ### Internal FAQs
 
-#### Question 1: How would we identify sales orders based on the associated POs?
+**Question 1: How would we identify sales orders based on the associated POs?**
 
 Answer: To uniquely identify and filter sales orders based on the associated POs, we link orders with the corresponding PO ID.
