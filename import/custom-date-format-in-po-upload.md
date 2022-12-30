@@ -16,21 +16,21 @@ Date formats can be configured and mapped before uploading in the settings page 
 
 ### FAQs
 
-#### Question 1: Do we need to select the date format every time before uploading a PO?
+**Question 1: Do we need to select the date format every time before uploading a PO?**
 
 Answer: No, the selected date formats will be saved at the company level. If users want to switch to some other date format, they may also update their existing date format and save the new format.
 
-#### Question 2: Is it possible to change the date format after uploading a PO?
+**Question 2: Is it possible to change the date format after uploading a PO?**
 
 Answer: Yes, date formats can be updated after uploading and while reviewing. Users can also access the list of all the available date formats directly from the Import App.
 
 ### Internal FAQs
 
-#### Question 1: Where will HotWax Commerce store merchant-specific custom date formats?
+**Question 1: Where will HotWax Commerce store merchant-specific custom date formats?**
 
 Answer: HotWax will create a product store setting to save the custom date format data selected at the company level.
 
-#### Question 2: Which tool will provide the data on date formats supported by HotWax?
+**Question 2: Which tool will provide the data on date formats supported by HotWax?**
 
 Answer: Import App users can check the [Luxon date time format](https://moment.github.io/luxon/#/formatting?id=table-of-tokens) to view the list of all available date formats right from the settings page.
 
