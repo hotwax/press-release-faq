@@ -18,12 +18,21 @@ To start using the feature, merchants can get in touch with an account manager a
 
 ### FAQs
 
-#### Question 1: Is it possible to save different CSV maps POs in case of multiple vendors?
+**Question 1: Is it possible to save different CSV maps POs in case of multiple vendors?**
 
-#### Question 2: How can we edit or delete a custom PO mapping?
+Answer: The Import App supports saving multiple mappings. Therefore, merchants can list their vendor specific CSV maps and accordingly name them.
 
-## Internal FAQs
+**Question 2: How can we delete a custom PO mapping?**
 
-#### Question 1: Which APIs will be exposed to create this feature?
+Answer: At present, custom PO mappings can be removed using hard refresh. In future, these mappings will be saved on the server and users will also have an option to delete their saved mappings.
 
-#### Question 2: How will we manage the backend support for this feature?
+### Internal FAQs
+
+**Question 1: How will we manage the backend support for this feature?**
+
+Answer: HotWax has introduced the DataManagerMapping entity, mapping data can be stored in its mapping preference value.
+
+**Question 2: Which APIs will be exposed to create this feature?** 
+
+Answer: The DataManagerMapping services are automatically created by entity auto for creating, updating or deleting PO mappings.
+

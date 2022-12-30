@@ -18,20 +18,21 @@ To start using this feature, merchants can get in touch with an account manager 
 
 ### FAQs
 
-#### Question 1: Is there a limit on how many custom jobs can be accommodated in the Job Manager app?
+**Question 1: Is there a limit on how many custom jobs can be accommodated in the Job Manager App?**
 
-#### Question 2: Can we also create a new category in the Job Manager app?
+Answer: No, there is no limit on the number of custom jobs. Merchants may list all business specific custom jobs and then later may also re-categorize based on logical groupings.
 
-#### Question 3: Can we alter a job’s predefined frequency and apply a custom frequency?
+**Question 2: Can we also create a new category in the Job Manager App?** 
 
-#### Question 4: Is it possible to delete a Miscellaneous Job?
-
-#### Question 5: Can users also pin Miscellaneous Jobs like predefined jobs?
+Answer: No, users cannot create a new category in the Job Manager App dynamically. Custom jobs that do not fit into any of the app's existing categories will be managed through the Miscellaneous Jobs section.
 
 ### Internal FAQs
 
-#### Question 1: Merchants can still see custom jobs in the pipeline page, what value does this add?
+**Question 1: Merchants can already see custom jobs in the pipeline page, what value does this add?** 
 
-#### Question 2: What would be the process to update the type of any existing job?
+Answer: The pipeline page only shows pending jobs while the Miscellaneous page lets users manage and schedule draft versions as well as pending jobs.
 
-#### Question 3: How would we accommodate a miscellaneous job into the current hardcoded job sections?
+**Question 2: What would be the process to update the type of any existing job?**
+
+Answer: Merchants can change a job’s enumeration type in order to update its classification.
+
