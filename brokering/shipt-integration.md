@@ -16,21 +16,22 @@ Merchants using ShipT as their shipping carrier for last mile deliveries will be
 
 ### FAQs
 
-#### Question 1: How is an order processed if it is only partially eligible for same or next day delivery?
+**Question 1: How is an order processed if it is only partially eligible for same or next day delivery?**
 
 Answer: Currently, HotWax does not support split orders with ShipT. Therefore, shopping carts will be evaluated based on availability of all order items.
 
-#### Question 2: How will we communicate to ShipT about order cancellations?
+**Question 2: How will we communicate to ShipT about order cancellations?**
 
 Answer: Orders cannot be canceled once they are under the processing status. Customers need to contact the support reps for order cancellations. CSRs would then contact ShipT to convey about the order cancellation requests.
 
-#### Question 3: If an order’s expected ship date differs from the delivery date confirmed by ShipT, how would we communicate to customers about changes?
+**Question 3: If an order’s expected ship date differs from the delivery date confirmed by ShipT, how would we communicate to customers about changes?**
 
 Answer: HotWax reads order updates from ShipT and triggers an email update to customers if there are any changes in the delivery dates confirmed by ShipT.
 
 ### Internal FAQs
 
-#### Question 1: Which ShipT updates will be supported using webhooks?
+**Question 1: Which ShipT updates will be supported using webhooks?**
+
 Answer: HotWax reads fulfillment updates from ShipT webhooks for complete and canceled.
 
 
