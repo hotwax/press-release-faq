@@ -16,22 +16,21 @@ Merchants using HotWax Commerce can hard-sync their entire pre-order catalog by 
 
 ### FAQs
 
-#### Question 1: Can we bulk push the pre-order catalog for multiple Shopify stores at once?
+**Question 1: Can we bulk push the pre-order catalog for multiple Shopify stores at once?**
 
 Answer: Users must select Shopify configs and schedule the bulk push pre-order catalog job for all the stores at once.
 
-#### Question 2: How much time would it take to sync the existing pre-order catalog on a new Shopify store?
+**Question 2: How much time would it take to sync the existing pre-order catalog on a new Shopify store?**
 
-Answer: On an average it takes two minutes to process a file, however it may take up to five minutes if the pre-order catalog size is larger than usual. Shopify lets HotWax Commerce know after it has finished processing a GraphQL file.
+Answer: On an average it takes two minutes to process a catalog file, however it may take up to five minutes if the pre-order catalog size is larger than usual. Shopify lets HotWax Commerce know after it has finished processing a GraphQL file.
 
 ### Internal FAQs
 
-#### Question 1: Which service will be used to bulk push the entire pre-order catalog?
+**Question 1: Which service will be used to bulk push the entire pre-order catalog?**
 
-Answer: 
+Answer: The services uploadAddedPreorderItemsToShopify and addPreorderTagOnProducts will sync the existing pre-order catalog on Shopify. Additionally, the parameter “include all” must be marked “true” in order to bulk push the entire pre-order catalog from HotWax to Shopify.
 
-#### Question 2: Is the job only helpful when launching a new Shopify store or there could be more use cases?
+**Question 2: Is the job only helpful when launching a new Shopify store or there could be more use cases?**
 
 Answer: Users may also schedule the bulk push pre-order catalog job to handle cases of discrepancies.
-
 
