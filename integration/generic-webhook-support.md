@@ -16,22 +16,21 @@ To start using standardized naming conventions users will need to re-subscribe t
 
 ### FAQs
 
-#### Question 1: Is it possible to edit the parameters once they are defined in the system?
+**Question 1: Is it possible to edit the parameters once they are defined in the system?**
 
 Answer: Yes, HotWax may edit existing parameters to define new standardized naming conventions.
 
 ### Internal FAQs
 
-#### Question 1: Where would we save URL naming conventions?
+**Question 1: Where would we save URL naming conventions?**
 
 Answer: URL naming conventions will be saved in a data configuration table.
 
-#### Question 2: How would we decouple integration and end points?
+**Question 2: How would we decouple integration and end points?**
 
-Answer: All the URLs are saved and mapped in a data configuration table. Instead of managing hardcoded URLs, we are mapping the action and config with the transformation ID. 
-The abstraction in the table allows updating the current action and config without changing the URL.
+Answer: All the URLs are saved and mapped in a data configuration table. Instead of managing hardcoded URLs, we are mapping the action and config with the transformation ID. The abstraction in the table allows updating the current action and config without changing the URL.
 
-#### Question 3: How would we add a new location when integrating a new system with OMS? 
+**Question 3: How would we add a new location when integrating a new system with OMS?** 
 
 Answer: Data management configuration in HotWax allows editing of the existing URL framework. A new URL/location will be supported by defining the required action and attaching a transformation.
 
