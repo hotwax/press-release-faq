@@ -10,9 +10,7 @@ Merchants can easily review if the on-order inventory allocations have been corr
 
 Merchants using HotWax Commerce will already receive the feature to filter sales orders by purchase orders. Merchants will need to go to the purchase order find page, select the purchase order for which they want to check the received sales orders and click on the link to view all associated sales orders.
 
-*Internal Quote* 
-
-*Customer Quote* 
+*Internal Quote* Filtering sales orders by purchase orders will certainly assist clients in quickly determining which orders have consumed their purchase order inventory.
 
 ### FAQs
 
