@@ -10,9 +10,9 @@ Shopify GraphQL API log auditing will allow users to gain full visibility into w
 
 Merchants using HotWax Commerce will already receive the feature to audit GraphQL API logs. Merchants will need to go to the MDM page and select Shopify GraphQL Job from the Shopify jobs section.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: Auditing and troubleshooting unexpected system behavior has become easy and fast.
 
 ### FAQs
 
@@ -29,4 +29,3 @@ Answer: Yes, users can go to the find look up screen and search API logs by Prod
 **Question 2: Would API logs also show jobs with the running status?**
 
 Answer: Yes, jobs that are currently being processed will be displayed with a running status.
-

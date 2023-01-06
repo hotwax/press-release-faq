@@ -10,6 +10,21 @@ HotWax can automatically identify orders imported with a kit product and then ad
 
 The Bundle’s App creates kit products and populates metafields for the kit components in Shopify. When an order with a kit product is imported in the OMS, HotWax maps the kit product by reading its metafields and then adds its components into the order.
 
-*Internal quote* 
+### Testimony
 
-*Customer quote*
+*Internal quote*: Since HotWax now supports kit products, clients may now present bundle offerings for their customers and sync their kit products in HotWax. 
+
+*Customer quote*: A bundle product has multiple variant components. The goal is to create a set of products that have been grouped together in a logical way by the seller to allow customers to purchase them together. 
+
+### FAQs
+
+**Question 1: What would a shopping cart with a kit product look like?**
+
+Answer: Customers adding kit products to their shopping cart will see it as a single item in their shopping cart.
+
+### Internal FAQs
+
+**Question 1: What will happen when a kit product’s component is not in stock?**
+
+Answer:  The kit product’s inventory is computed on the basis lowest denominations in Shopify. Since all the components that make a kit product must be available in-stock, if a component is not in stock then the complete bundle offering will be considered as out of stock.
+

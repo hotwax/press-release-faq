@@ -10,9 +10,11 @@ Displaying day-specific store’s operating hours and estimated lead time on eCo
 
 Merchants will be required to communicate their list of holidays and every store’s opening-closing schedule for the week. Additionally, merchants will also need to set their projected lead time, that their staff need to prepare orders, on the BOPIS shipping method. HotWax Commerce will then fetch and save a store’s operating details to provide the intended BOPIS front-end experience.
 
-*Internal quote*
+### Testimony
 
-*Customer quote*
+*Internal quote*: Customers will be able to see same-day pick-up availability on the client’s eCommerce PDP itself, this will help them reduce cart abandonment and order cancellations.
+
+*Customer quote*: Store hours on PDP should appear for all week days on storefront. As Store hours can be collapsed by the default and allow the user to expand/collapse by clicking on "store hours'. 
 
 To start using the solution, merchants can get in touch with an account manager at HotWax Commerce and get their store operating details uploaded into HotWax Commerce.
 

@@ -10,9 +10,11 @@ A specialized integration between HotWax Commerce OMS and ShipT fills in the gap
 
 Merchants using ShipT as their shipping carrier for last mile deliveries will be able to implement additional criterias supported by HotWax Commerce, along with incoming webhook communication for order fulfillment updates.
 
-*Internal quote* 
+### Testimony
 
-*Customer quote*
+*Internal quote*: HotWax now has a ready integration with ShipT. It is an excellent addition to the current integration ecosystem. Clients using ShipT as their shipping aggregator will now avail real-time fulfillment updates via webhooks.
+
+*Customer quote*: We want to offer customers same-day delivery from ShipT. Can HotWax integrate with ShipT?
 
 ### FAQs
 

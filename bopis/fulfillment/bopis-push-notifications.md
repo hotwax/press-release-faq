@@ -10,9 +10,12 @@ Push notifications keep store associates aware of BOPIS orders as soon as they a
 
 Users using HotWax Commerce BOPIS fulfillment app will receive instant push notifications for new orders and reminders for pending orders.
 
-*Internal quote*
+### Testimony
 
-*Customer quote*
+*Internal quote*: BOPIS orders can sometimes go unnoticed, the Push Notifications feature will ensure that store associates prepare BOPIS orders on time and that no orders are missed.
+
+*Customer quote*: Add a notification system for new BOPIS orders.
+The simplest and fastest option is to set up a mailing list and HotWax will notify that mailing list with a notification that there is a new BOPIS order.
 
 ### FAQs
 

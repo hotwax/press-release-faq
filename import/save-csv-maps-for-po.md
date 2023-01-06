@@ -10,9 +10,11 @@ Merchandisers will be able to auto-save their PO CSV maps right into the app. Cu
 
 Merchandisers will automatically receive the feature to save their preferable CSV mappings in the Import App or they may also use pre-loaded formats present in the app.
 
-*Internal quote*
+### Testimony 
 
-*Customer quote*
+*Internal quote*: Most of HotWax client’s upload multiple purchase orders on an everyday basis. Saving CSV mappings will definitely help them quickly upload their POs.
+
+*Customer quote*: When uploading multiple POs, we need to remap all PO fields every time, is there a way we can save these PO mappings?
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce. 
 

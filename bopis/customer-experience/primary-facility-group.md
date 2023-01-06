@@ -10,9 +10,11 @@ Clearly indicating which brand operates the pick-up location on the PDP allows m
 
 To display featured stores on PDP, merchants will need to get their Shopify pick-up app upgraded to support featuring store fields. Merchants will also need to input the primary brand for each location if it holds inventory for sibling brands as well.
 
-*Internal quote*
+### Testimony
 
-*Customers quote*
+*Internal quote*: Reflecting these details will definitely help customers to stay updated on which brand operates a pick-up location.
+
+*Customers quote*: Perry Ellis locations at Cubavera.com should read e.g. "Naples Perry Ellis featuring Cubavera" . We only have one main Cubavera store, so most will be PE.
 
 ### FAQs
 
@@ -27,6 +29,8 @@ Answer: Yes, BOPIS PDP experience is configurable. Merchants can propose their p
 Answer: When calculating online ATP for an item HotWax Commerce does not check its associated brand. Inventory count is recorded and updated at a facility level. Therefore, HotWax Commerce will directly sync the inventory changes at the primary brand facility that is holding inventory for other brands as well.
 
 **Question 2: Which API’s will be used to display the operating brand details on PDP?**
+
+Answer: The storeLookup API will return the brand operating a pick-up location.
 
 **Question 3: How will we associate the brand name with the facility?**
 

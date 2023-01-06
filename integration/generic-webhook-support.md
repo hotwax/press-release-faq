@@ -10,9 +10,9 @@ Clearly defining URL naming conventions will ensure uniform webhook URLs for all
 
 To start using standardized naming conventions users will need to re-subscribe their existing webhooks to the new URLs. For initial set-up, developers will need to feed the operation/action, configuration and transformation ID. When establishing a new integration with OMS, only the configuration ID will be swapped, keeping the standard format unchanged.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: Standardization has made managing webhook URLs easy. Decoupling configs and transformations now allows developers to deploy a new integration without editing the existing code.
 
 ### FAQs
 

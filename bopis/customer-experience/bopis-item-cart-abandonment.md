@@ -10,9 +10,11 @@ Explicitly displaying a timer on a cart’s BOPIS items will let customers know 
 
 Merchants will need to communicate their preferred ‘valid till’ time for BOPIS items in the shopping cart. Once an item expires, customers will be required to update their cart before proceeding to checkout. If an item is no longer available for pick-up from the selected store, HotWax will add a line item property that the item is no longer available for pick-up at the selected store. Regular shipping methods will be displayed on the checkout page for items that are expired, letting customers who still wish to continue with the purchase get items shipped to their home. Minor developer intervention will be required to create a customized frontend experience for the shopping cart and checkout page. 
 
-*Internal quote* 
+### Testimony
 
-*Customer quote*
+*Internal quote*: HotWax developed the BOPIS item cart abandonment feature because in-store product availability frequently changes. This shopping cart customization will ensure that customers know if a product is still available in-store after they revisit their shopping cart.
+
+*Customer quote*: Customer adds item as store pickup when available at store location X, abandons cart. When a customer comes back to the website the item is no longer available at that specific store. 
 
 ### FAQs
 

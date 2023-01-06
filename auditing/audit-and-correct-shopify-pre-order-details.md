@@ -10,9 +10,16 @@ Auditing and correcting Shopify pre-order details from HotWax will allow users t
 
 Merchants can audit and correct pre-order items details right from the view product page in HotWax. An API call will be initiated to load the pre-order status of an item across all the Shopify stores.
 
-*Internal quote* 
+### Testimony
 
-*Customer quote*
+*Internal quote*: The feature allows for quickly monitoring of pre-order items’ statuses and also assists in keeping a vigilant check for clients.
+
+*Customer quote*: We uploaded pre-order inventory for all our Naioca SKUs but only some are appearing as available for preorder on the front end. Checking in the back end they are all set up the same way.
+
+On the US site, only the NAIOCA Skate Vintage White Suede Off-White Canvas Grey Logo Sneaker Women have continue selling ticked correctly, and that has the wrong date populated in the metafield.
+
+On the INT site continue selling is correctly checked but date is wrong across the board.
+Looking in HotWax I don't see any PO uploaded with a delivery date of 11/4, there is only the Naioca PO with the 11/3 delivery date in the system.
 
 ### FAQs
 

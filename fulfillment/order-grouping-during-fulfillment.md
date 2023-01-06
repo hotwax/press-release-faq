@@ -9,10 +9,12 @@ Since orders are received at different time intervals, the fulfillment team ends
 If a customer has multiple orders brokered to the same facility, being shipped to the same address, the Fulfillment App will smartly group those order items into the same shipment. Collectively grouping orders lets merchants also reduce the number of packages for the customers.
  
 Order Grouping feature will be automatically supported by HotWax Commerce Fulfillment App.
+
+### Testimony
  
-*Internal quote* 
+*Internal quote*: Merging multiple orders of a customer with the same delivery address will help HotWax’s clients save costs. Reducing the number of shipments will also help foster sustainability.
  
-*Customer quote*
+*Customer quote*: Our Daily Bread would like to merge orders shipping to the same destination on the same day. The goal is to reduce wasted packaging and give a better experience to customers.
  
 ### FAQs
 
