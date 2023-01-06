@@ -10,15 +10,17 @@ The OMS will search for all pre-orders in the pre-order parking that have a miss
 
 Retailers using HotWax Commerce for pre-orders will receive the functionality to “Allocate Sales Orders”. Retailers will need to go to the purchase order find page, select the purchase order and click on the link to manually trigger PO ATP allocation. 
 
+### Testimony
+
 *Internal quote*: The feature “Manually trigger PO ATP allocation” will be a great add on for clients who accept pre-orders before uploading a PO.
 
-## FAQs
+### FAQs
 
 **Question 1: What if a PO’s arrival dates are changed after associating it with the sales orders?**
 
 Answer: In case there are any changes in the arrival dates of a purchase order, HotWax will read the new dates, email customers about the dates changes.
 
-## Internal FAQs
+### Internal FAQs
 
 **Question 1: How would we communicate the promise dates for the sales orders received?**
 
