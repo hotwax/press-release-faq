@@ -10,6 +10,8 @@ HotWax Commerce will push actual on-order inventory levels to Shopify for every 
 
 Merchants already upload purchase orders to HotWax Commerce, so they will automatically receive this feature to push pre-orderable quantity from purchase orders and to Shopify. 
 
+### Testimony
+
 *Internal quote*: Pushing the pre-order inventory on Shopify will ensure HotWax’s clients don’t undersell or oversell their upcoming inventory.
 
 *Customer quote*: How do we ensure that we don’t oversell our on-order inventory if HotWax lists and de-lists pre-order products at intervals?
@@ -26,7 +28,7 @@ Answer:  No, pre-order quantity cannot be pushed to Shopify in absence of purcha
 
 Answer: When a PO is canceled, PO ATP would become 0 and the product will be automatically removed from the pre-order.
 
-## Internal FAQs
+### Internal FAQs
 
 **Question 1: Which APIs will push the on-order inventory to Shopify?**
 
