@@ -10,9 +10,9 @@ Bulk scheduling jobs will let users collectively manage multiple jobs across all
 
 Merchants using HotWax Commerce already have access to the Job Manager App. To bulk schedule jobs, merchants will need to go to the Job Manager App, select product store and its associated Shopify configs, select their preferable jobs, run time and operating frequency.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: HotWax’s many clients have more than 10+ Shopify stores, scheduling jobs for each store and verifying each job’s status consumed a lot of time. Bulk scheduling has greatly expedited this process.
 
 ### FAQs
 
@@ -29,4 +29,3 @@ Answer: Bulk scheduling works at a product store level with multiple Shopify con
 **Question 1: Would we allow bulk scheduling miscellaneous jobs as well?**
 
 Answer: Yes, all the jobs in the Job Manager App, including miscellaneous jobs, are eligible for bulk scheduling.
-
