@@ -10,9 +10,13 @@ Enabling ExcludePreOrderQueueItems setting will help merchants allocate their ph
 
 Merchants using HotWax Commerce will receive the feature to exclude pre-order queue items. Merchants can configure the settings and choose whether or not they want to consider pre-order queue items for inventory computation.
 
-*Internal quote*
+*Internal quote*: HotWax’s clients operating brick and mortar and also those running only eCommerce stores will now have the ability to decide how they want to compute their online ATP, depending on their requirements.
 
-*Customer quote*
+
+*Customer quote*: This SKU has 70+ units in stock but Continue selling is checked on -- this shouldn't be checked on unless inventory is 0? 
+
+This order is tagged as hotwax_backorder and the HotWax note was added, but it's not backorder, it was in stock.
+
 
 ### FAQs
 
