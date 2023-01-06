@@ -10,9 +10,9 @@ HotWax Commerce will push actual on-order inventory levels to Shopify for every 
 
 Merchants already upload purchase orders to HotWax Commerce, so they will automatically receive this feature to push pre-orderable quantity from purchase orders and to Shopify. 
 
-*Internal quote* Pushing the pre-order inventory on Shopify will ensure HotWax’s clients don’t undersell or oversell their upcoming inventory.
+*Internal quote*: Pushing the pre-order inventory on Shopify will ensure HotWax’s clients don’t undersell or oversell their upcoming inventory.
 
-*Customer quote* How do we ensure that we don’t oversell our on-order inventory if HotWax lists and de-lists pre-order products at intervals?
+*Customer quote*: How do we ensure that we don’t oversell our on-order inventory if HotWax lists and de-lists pre-order products at intervals?
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce.
 
@@ -38,5 +38,5 @@ Answer: Yes, meta-fields will be populated via API calls to push inventory level
 
 **Question 3: If we store the ATP in a metafield, how do we keep track of sales and update the metafields?**
 
-Answer: The ATP will be reduced in Shopify as and when new pre-orders will be received. 
+Answer: The ATP will be reduced in Shopify as and when new pre-orders will be received.
 
