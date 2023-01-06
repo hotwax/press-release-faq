@@ -10,13 +10,15 @@ Using Reserve Inventory to toggle if order queues are accounted for when computi
 
 Merchants using HotWax Commerce OMS can toggle the product store setting “ReserveInventory” and configure if HotWax should reduce committed inventory again.
 
+### Testimony 
+
 *Internal quote*: Some of HotWax’s clients have Shopify as their inventory master. This setting will help them configure how they want to compute their inventory.
 
 *Customer quote*: This SKU has 70+ units in stock but Continue selling is checked on -- this shouldn't be checked on unless inventory is 0? 
 
 This order is tagged as hotwax_backorder and the HotWax note was added, but it's not backorder, it was in stock.
 
-## FAQs
+### FAQs
 
 **Question 1: When should we enable the ReserveInventory setting?**
 
@@ -30,7 +32,7 @@ Answer: No, the ReserveInventory setting will be present in the product store th
 
 Answer: HotWax will only read inventory counts from Shopify using webhooks and update the same in the OMS.
 
-## Internal FAQs
+### Internal FAQs
 
 **Question 1: When the setting ReserveInventory is disabled, how will HotWax compute the inventory for multiple Shopify stores connected with a product store?**
 
