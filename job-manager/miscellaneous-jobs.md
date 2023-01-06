@@ -10,9 +10,9 @@ The ability to list Miscellaneous Jobs will let merchants incorporate every job,
 
 Merchants using HotWax Commerce already have access to the Job Manager app, new Miscellaneous Jobs have to be added by an account executive, after which, merchants will have access to those jobs whenever they need. Merchants will be able edit a job’s classification by changing its type, doing so they can recategorize jobs to their preferred section in the Job Manager app.
 
-*Internal quote*
+### Testimony
 
-*customer quote*
+*Internal quote*: Incorporating new jobs wasn’t possible in the earlier version of the application, miscellaneous jobs section has helped HotWax’s clients manage their operations as per their needs.
 
 To start using this feature, merchants can get in touch with an account manager at HotWax to help them add the required set of custom jobs.
 
@@ -35,4 +35,3 @@ Answer: The pipeline page only shows pending jobs while the Miscellaneous page l
 **Question 2: What would be the process to update the type of any existing job?**
 
 Answer: Merchants can change a job’s enumeration type in order to update its classification.
-
