@@ -10,9 +10,11 @@ HotWax uses the GraphQL file processing status webhook to make sure that the nex
 
 Merchants using HotWax Commerce will automatically be switched to using webhook based Shopify GraphQL file processing procedure.
 
-*Internal quote* 
+### Testimony
 
-*Customer quote* 
+*Internal quote*: Shopify GraphQL file processing speed has substantially improved pre-order and backorder products listing and de-listing process.
+
+*Customer quote*: Can HotWax reduce the default 15-minutes file processing time?
 
 ### FAQs
 

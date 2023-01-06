@@ -10,9 +10,12 @@ By automatically identifying duplicate PO IDs during review and before they are 
 
 Merchandisers using HotWax Commerce Import App for managing their purchase orders will receive the feature to get the warning against a duplicate PO ID on the review PO page.
 
-*Internal quote*
+### Testimony
 
-*Customer quote*
+*Internal quote*: The feature gives more autonomy to HotWax’s clients in correctly managing their purchase orders.
+
+*Customer quote*: PO Id once used cannot be used again while uploading new PO.
+If a purchase order has been uploaded once, the PO Id cannot be used again to override or upload a new PO after canceling the first one.
 
 ### FAQs
 

@@ -10,9 +10,14 @@ Staff managing cycle counts will receive real time push notifications when a cyc
 
 Merchants will automatically receive the feature to reconcile inventory counts. They can request cycle counts from the product inventory page by selecting a facility where they want to re-count inventory. 
 
-*Internal quote* 
+### Testimony
 
-*Customer quote* 
+*Internal quote*: HotWax clients can now request inventory counts at the facilities as and when required.
+
+*Customer quote*: We need to frequently request cycle counts for products at our stores. Cycle counting capability / inventory updates in your tool are super important to me as part of launch. How long would that take to develop?
+As a store employee:
+- I will receive a daily list on what to count
+- I will logon to HotWax application and select Cycle Count with my individual ID (krewe email + password)
 
 ### FAQs 
 

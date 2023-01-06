@@ -10,9 +10,9 @@ Store fulfillment teams can easily monitor pending packed BOPIS orders and quick
 
 Store associates using HotWax Commerce BOPIS Fulfillment App will receive an option to resend order pick-up updates to their customers.
 
-*Internal quote*
+*Internal quote*: HotWax clients can now ensure that their shoppers stay up to date with their pick-up schedules, helping them handle backlog of pending BOPIS orders timely.
 
-*Customer quote*
+*Customer quote*: Sometimes customers do not pick-up orders on the same day, so can HotWax provide an option to resend pick-up emails to customers for pending orders just like Shopify does?
 
 ### FAQs
 

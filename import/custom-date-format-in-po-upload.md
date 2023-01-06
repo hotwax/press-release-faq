@@ -10,9 +10,11 @@ The Import App will let merchandisers configure the date format before uploading
 
 Date formats can be configured and mapped before uploading in the settings page and also corrected if there is a discrepancy after uploading and reviewing the PO.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: HotWax has clients based in multiple countries, custom date format in PO upload will help them set their dates as per their preferred formats.
+
+*Customer quote*: While importing PO from the Import App, it only accepts mm/dd/yyyy format. Tried uploading a PO with dd/mm/yyyy format or mm/dd/yy format but it did not accept.
 
 ### FAQs
 
@@ -33,5 +35,3 @@ Answer: HotWax will create a product store setting to save the custom date forma
 **Question 2: Which tool will provide the data on date formats supported by HotWax?**
 
 Answer: Import App users can check the [Luxon date time format](https://moment.github.io/luxon/#/formatting?id=table-of-tokens) to view the list of all available date formats right from the settings page.
-
-

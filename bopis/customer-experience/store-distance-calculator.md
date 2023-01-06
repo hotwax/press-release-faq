@@ -11,9 +11,11 @@ By building store distance computation directly into HotWax Commerce, distance f
 
 Merchants already store their facility address information in HotWax Commerce, by additionally storing lattitude and longitude information, they can instantly start offering distance computation to their customers anywhere in the Shopify shopping experince as long as they have the shopper's zipcode. Most merchants that offer a PDP BOPIS experience already request customers to submit their zipcode to identify nearby facilities so they will not have to implement any changes in their user experience. Minor developer intervention will be required on their front end to add new HTML elements to show computed distance.
 
-*internal quote*
+### Testimony
 
-*customer quote*
+*Internal quote*: Customers will be able to frame more informed purchasing decisions based on store distance, which will help HotWax's clients in delivering a positive customer experience.
+
+*Customer quote*: If a customer loads a page for the first time, can stores appear in proximity on the basis of the longitude and latitude of the customer?
 
 To start using this feature, merchants can get in touch with an account manager at HotWax to help them add the required additional information.
 
