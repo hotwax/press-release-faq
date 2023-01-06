@@ -10,9 +10,11 @@ The job to push their entire pre-order catalog to Shopify will allow merchants t
 
 Merchants using HotWax Commerce can hard-sync their entire pre-order catalog by scheduling the job bulk push pre-order catalog to Shopify.
 
-*Internal quote* 
+*Internal quote* We have launched our new Europe store, is it possible to sync our existing pre-order catalog for the new store? 
 
-*Customer quote*
+
+*Customer quote* Syncing an existing pre-order catalog from HotWax to a new Shopify store has never been this easy.
+
 
 ### FAQs
 
