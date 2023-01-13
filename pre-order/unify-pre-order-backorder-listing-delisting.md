@@ -2,7 +2,7 @@
 
 ## Listing-delisting operations for pre-order and backorder products should be synchronized.
 
-HotWax now lists and delists pre-order and backorder products in a single API call, ensuring that a product is removed only if it is not on pre-order or backorder. Unified listing-delisting operations helps in correctly amending pre-order and backorder products in Shopify.
+HotWax now lists and delists pre-order and backorder products in a single API call, ensuring that a product is removed only if it is not on pre-order or backorder. Unified listing-delisting operations helps in correctly amending products transitioning from pre-order to backorder on Shopify.
 
 When a product exits pre-order and enters the backorder category, HotWax may first list it for backorder on Shopify before delisting it from pre-order. Because of the pre-order delisting operation the inventory policy for the product gets disabled even though the product should be available for backorder. When a product is incorrectly delisted on Shopify, backorder products appear “out of stock” on the eCommerce PDP, which costs retailers potential sales.
 
