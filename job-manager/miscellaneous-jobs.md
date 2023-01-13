@@ -26,7 +26,6 @@ Answer: No, there is no limit on the number of custom jobs. Merchants may list a
 
 Answer: No, users cannot create a new category in the Job Manager App dynamically. Custom jobs that do not fit into any of the app's existing categories will be managed through the Miscellaneous Jobs section.
 
-#### Question 6: Why is it named miscellaneous jobs but not custom jobs? As these jobs are custom made for retailers, I believe naming and categorising them as custom jobs rather miscellaneous jobs, will be more clear for user.
 
 ### Internal FAQs
 
