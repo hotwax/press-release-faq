@@ -4,7 +4,7 @@
  
 Retailers who receive Shopify returns can now specify the default restock location at their company where all returns should be restocked. Since the return inventory is now restocked, retailers may make it available for sale and accept new orders on it.
  
-When retailers use HotWax to push consolidated inventory to Shopify, on receiving returns from Shopify, they are unable to map that return and its inventory to a physical location. Since Shopify does not save a retailer’s list of facilities therefore the inventory received from returns is set aside at any virtual location in Shopify. Not updating the restocked inventory count at the physical location results in accounting lower stock levels and retailers then end-up losing on potential sales.
+When retailers use HotWax to push consolidated inventory to Shopify, on receiving returns from Shopify, they are unable to map that return and its inventory to a physical location. Since Shopify does not save a retailer’s list of facilities therefore the inventory received from returns is set aside at any virtual location in Shopify. Not updating the restocked inventory count at the physical location results in accounting lower stock levels and lost potential sales.
  
 Retailers may now select their default restock location in HotWax's ProductStoreSettings. Updating restock inventory counts at the default physical location will ensure that Shopify eCommerce maintains an accurate inventory level, which otherwise leads to lost sales. Setting the default restock location also lets retailers easily reconcile all units returned by customers at a single location.
  
