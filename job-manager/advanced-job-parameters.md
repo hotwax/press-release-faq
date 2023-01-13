@@ -10,30 +10,31 @@ Users aware of the special parameters will be able to pass them in the job run t
 
 Merchants using the Job Manager App will already receive the feature to add optional parameters in their job run time data. Users will need to feed the specific keys and expected values required in the job dataset to run a service optimized for their need.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: The feature “advanced job parameters” has significantly enhanced the Job Manager App’s current capabilities.
 
 ### FAQs
 
-#### Question 1: Can all the Job Manager users pass custom parameters in the job run time data?
+**Question 1: Can all the Job Manager users pass custom parameters in the job run time data?**
 
 Answer: Only admins will be allowed to pass their special parameters for a higher security clearance, ensuring unaware users do not unknowingly input wrong keys or values.
 
-#### Question 2: What would be the outcome in case a user inputs the wrong key or value?
+**Question 2: What would be the outcome in case a user inputs the wrong key or value?**
 
 Answer: The job fails if a wrong key or value is entered. Failed jobs are visible in the history page.
 
-#### Question 3: How many custom parameters can be passed in a service?
+**Question 3: How many custom parameters can be passed in a service?**
 
 Answer: Admins may pass as many optional parameters as required to configure jobs as per the need.
 
-#### Question 4: How can we ensure if the user defined parameters were actually considered and accepted by the service?
+**Question 4: How can we ensure if the user defined parameters were actually considered and accepted by the service?**
 
 Answer: Users can review the passed parameters in the job dataset, however, it is not possible to monitor their impact on a service.
 
 ### Internal FAQs
 
-#### Question 1: Is it completely a self-serve feature or do we need to provide some type mappings in the job dataset?
+**Question 1: Is it completely a self-serve feature or do we need to provide some type mappings in the job dataset?**
+
 Answer:  It’s a self-serve tool, users need to insert the specific key and values.
 

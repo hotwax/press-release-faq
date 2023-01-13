@@ -10,28 +10,27 @@ Clearly defining URL naming conventions will ensure uniform webhook URLs for all
 
 To start using standardized naming conventions users will need to re-subscribe their existing webhooks to the new URLs. For initial set-up, developers will need to feed the operation/action, configuration and transformation ID. When establishing a new integration with OMS, only the configuration ID will be swapped, keeping the standard format unchanged.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: Standardization has made managing webhook URLs easy. Decoupling configs and transformations now allows developers to deploy a new integration without editing the existing code.
 
 ### FAQs
 
-#### Question 1: Is it possible to edit the parameters once they are defined in the system?
+**Question 1: Is it possible to edit the parameters once they are defined in the system?**
 
 Answer: Yes, HotWax may edit existing parameters to define new standardized naming conventions.
 
 ### Internal FAQs
 
-#### Question 1: Where would we save URL naming conventions?
+**Question 1: Where would we save URL naming conventions?**
 
 Answer: URL naming conventions will be saved in a data configuration table.
 
-#### Question 2: How would we decouple integration and end points?
+**Question 2: How would we decouple integration and end points?**
 
-Answer: All the URLs are saved and mapped in a data configuration table. Instead of managing hardcoded URLs, we are mapping the action and config with the transformation ID. 
-The abstraction in the table allows updating the current action and config without changing the URL.
+Answer: All the URLs are saved and mapped in a data configuration table. Instead of managing hardcoded URLs, we are mapping the action and config with the transformation ID. The abstraction in the table allows updating the current action and config without changing the URL.
 
-#### Question 3: How would we add a new location when integrating a new system with OMS? 
+**Question 3: How would we add a new location when integrating a new system with OMS?** 
 
 Answer: Data management configuration in HotWax allows editing of the existing URL framework. A new URL/location will be supported by defining the required action and attaching a transformation.
 

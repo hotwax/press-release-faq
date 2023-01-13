@@ -10,22 +10,24 @@ HotWax uses the GraphQL file processing status webhook to make sure that the nex
 
 Merchants using HotWax Commerce will automatically be switched to using webhook based Shopify GraphQL file processing procedure.
 
-*Internal quote* 
+### Testimony
 
-*Customer quote* 
+*Internal quote*: Shopify GraphQL file processing speed has substantially improved pre-order and backorder products listing and de-listing process.
+
+*Customer quote*: Can HotWax reduce the default 15-minutes file processing time?
 
 ### FAQs
 
-#### Question 1: If multiple jobs are scheduled at the same time, in what order HotWax will push GraphQL files to Shopify?
+**Question 1: If multiple jobs are scheduled at the same time, in what order HotWax will push GraphQL files to Shopify?**
 
 Answer: HotWax Commerce pushes GraphQL files to Shopify on the basis of first come first serve.
 
-#### Question 2: Does Shopify’s file processing status webhook let HotWax Commerce know about failed operations too?
+**Question 2: Does Shopify’s file processing status webhook let HotWax Commerce know about failed operations too?**
 
 Answer: Yes, Shopify’s file processing status webhook will let HotWax know about canceled or failed operations. The decision to push the next GraphQL file can be taken based on this information.
 
 ### Internal FAQs
 
-#### Question 1: What would be the scenario in case an operation fails? Will HotWax automatically request the next GraphQL file for processing?
+**Question 1: What would be the scenario in case an operation fails? Will HotWax automatically request the next GraphQL file for processing?**
 
 Answer: If an operation fails, HotWax Commerce will push the next queued GraphQL file for processing to Shopify.

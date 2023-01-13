@@ -10,28 +10,28 @@ The Import App will let merchandisers configure the date format before uploading
 
 Date formats can be configured and mapped before uploading in the settings page and also corrected if there is a discrepancy after uploading and reviewing the PO.
 
-*Internal quote*
+### Testimony
 
-*Customer quote* 
+*Internal quote*: HotWax has clients based in multiple countries, custom date format in PO upload will help them set their dates as per their preferred formats.
+
+*Customer quote*: While importing PO from the Import App, it only accepts mm/dd/yyyy format. Tried uploading a PO with dd/mm/yyyy format or mm/dd/yy format but it did not accept.
 
 ### FAQs
 
-#### Question 1: Do we need to select the date format every time before uploading a PO?
+**Question 1: Do we need to select the date format every time before uploading a PO?**
 
 Answer: No, the selected date formats will be saved at the company level. If users want to switch to some other date format, they may also update their existing date format and save the new format.
 
-#### Question 2: Is it possible to change the date format after uploading a PO?
+**Question 2: Is it possible to change the date format after uploading a PO?**
 
 Answer: Yes, date formats can be updated after uploading and while reviewing. Users can also access the list of all the available date formats directly from the Import App.
 
 ### Internal FAQs
 
-#### Question 1: Where will HotWax Commerce store merchant-specific custom date formats?
+**Question 1: Where will HotWax Commerce store merchant-specific custom date formats?**
 
 Answer: HotWax will create a product store setting to save the custom date format data selected at the company level.
 
-#### Question 2: Which tool will provide the data on date formats supported by HotWax?
+**Question 2: Which tool will provide the data on date formats supported by HotWax?**
 
-Answer: Import App users can check the [Luxon date time format](url) to view the list of all available date formats right from the settings page.
-
-
+Answer: Import App users can check the [Luxon date time format](https://moment.github.io/luxon/#/formatting?id=table-of-tokens) to view the list of all available date formats right from the settings page.

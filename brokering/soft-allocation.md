@@ -10,26 +10,32 @@ When customers build a list on eCommerce, like a wishlist or shopping cart, soft
 
 HotWax Commerce will integrate with a merchant’s existing shipping carriers to align with their same-day delivery policy. Merchants that haven’t already done so, will also have to input latitude and longitude information for each of their participating fulfillment locations for soft allocation brokering to calculate accurate distance. Developer intervention will be needed to create a customized front-end experience in places like the micro cart. HotWax can provide frontend Shopify development or provide API details if the merchant has a Shopify agency of choice.
 
-*Internal quote*
+### Testimony
 
-*Customer quote*
+*Internal quote*: The soft allocation functionality will assist clients who offer same-day deliveries in accurately communicating to customers whether the list of items in their shopping cart is qualified for same-day delivery. 
+
+*Customer quote*: How will HotWax evaluate if items in the shopping cart detail page should be available for same-day delivery or not?
 
 To start using the feature, merchants can get in touch with an account manager at HotWax Commerce and learn more about the soft allocation brokering solution.
 
 ### FAQs
 
-#### Question 1: Can a customer check same-day delivery for multiple zip codes?
+**Question 1: Can a customer check same-day delivery for multiple zip codes?**
 
-#### Question 2: What would happen when a cart has multiple items and only a few of them are available for same-day delivery? 
+Answer: Yes, customers can check if an item is available for same-day delivery by evaluating different zip codes one at a time.
 
-#### Question 3: Can customers place orders post store’s operating hours?
+**Question 2: What would happen when a cart has multiple items and only a few of them are available for same-day delivery?**
 
-#### Question 4: What steps would the system take if a shipping carrier denies same-day order fulfillment?
+Answer: Soft allocation will evaluate all the items in the cart and display item wise same-day delivery eligibility for them. If order splitting is disabled, and some items are not eligible for same-day delivery, customers can edit and re-evaluate their cart’s items.
+
+**Question 3: Can customers place orders beyond the store's operating hours?**
+
+Answer: Yes, orders can be placed outside of a store’s operating hours. However, then the same day shipping method will not be displayed and next fastest delivery options will be shown for order items.
 
 ### Internal FAQs
 
-#### Question 1: Will there be a seperate queue to broker orders eligible for same-day delivery?
+**Question 1: Will there be a separate queue to broker orders eligible for same-day delivery?**
 
 Answer: When the order is imported into HotWax Commerce, it will already have a ship from the location attached to it, so it will go straight to the fulfillment location without waiting for brokering.
 
-#### Question 2: Would our existing brokering algorithm work for soft allocation brokering? Or do we need to develop a new brokering algorithm?
+**Question 2: Would our existing brokering algorithm work for soft allocation brokering? Or do we need to write/develop a new brokering algorithm?**

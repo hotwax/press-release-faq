@@ -10,25 +10,35 @@ Staff managing cycle counts will receive real time push notifications when a cyc
 
 Merchants will automatically receive the feature to reconcile inventory counts. They can request cycle counts from the product inventory page by selecting a facility where they want to re-count inventory. 
 
-*Internal quote* 
+### Testimony
 
-*Customer quote* 
+*Internal quote*: HotWax clients can now request inventory counts at the facilities as and when required.
 
-### FAQs
+*Customer quote*: We need to frequently request cycle counts for products at our stores. Cycle counting capability / inventory updates in your tool are super important to me as part of launch. How long would that take to develop?
+As a store employee:
+- I will receive a daily list on what to count
+- I will logon to HotWax application and select Cycle Count with my individual ID (krewe email + password)
 
-#### Question 1: Can everyone in the selected facility access the list of items for cycle counts?
+### FAQs 
 
-Answer: Yes, all the store staff responsible for cycle counts can access the complete list of items that need to be reconciled from the cycle count app. 
+**Question 1: Can everyone in the selected facility access the list of items for cycle counts?**
 
-#### Question 2: In case variances are reported, how can we review the inventory counts?
+Answer: Yes, all the staff responsible for cycle counts can access the complete list of items that need to be reconciled from the cycle count app.
+
+**Question 2: In case variances are reported, how can we review the inventory counts?**
 
 Answer: Merchants can access the accounted inventory variances from the reconcile inventory page. They have an option to accept reported inventory variance or reject it and ask for a recount.
 
+
 ### Internal FAQs
 
-#### Question 1: When a cycle count is assigned to store staff, which API’s will be used to send push notifications?
+**Question 1: When a cycle count is assigned to store staff, which API’s will be used to send push notifications?**
 
-#### Question 2: Where will HotWax Commerce save the cycle count requests?
+Answer: TBD
+
+**Question 2: Where will HotWax Commerce save the cycle count requests?**
+
+Answer: A communication event will be created for a group of people associated with the facility where cycle count is requested.
 
 
 

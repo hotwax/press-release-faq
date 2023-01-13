@@ -10,22 +10,30 @@ Displaying day-specific store’s operating hours and estimated lead time on eCo
 
 Merchants will be required to communicate their list of holidays and every store’s opening-closing schedule for the week. Additionally, merchants will also need to set their projected lead time, that their staff need to prepare orders, on the BOPIS shipping method. HotWax Commerce will then fetch and save a store’s operating details to provide the intended BOPIS front-end experience.
 
-*Internal quote*
+### Testimony
 
-*Customer quote*
+*Internal quote*: Customers will be able to see same-day pick-up availability on the client’s eCommerce PDP itself, this will help them reduce cart abandonment and order cancellations.
+
+*Customer quote*: Store hours on PDP should appear for all week days on storefront. As Store hours can be collapsed by the default and allow the user to expand/collapse by clicking on "store hours'. 
 
 To start using the solution, merchants can get in touch with an account manager at HotWax Commerce and get their store operating details uploaded into HotWax Commerce.
 
 ### FAQs
 
-#### Question 1: Would the BOPIS orders received at the closing time be fulfilled next day?
+**Question 1: Would the BOPIS orders received at the closing time be fulfilled the next day?**
 
-#### Question 2: Based on a store’s operating hours, if a BOPIS order cannot be fulfilled same-day, can we edit the messaging and display “pick-up tomorrow”?
+Answer: Yes, since the pick-up time will be based on a store’s operating hours and lead time, customers placing orders just before the closing time would know if the item can still be picked up the same day or not. In case, an item is not available for same-day pick-up, a next-day pick-up option will be shown on PDP.
 
 ### Internal FAQs
 
-#### Question 1:  Which APIs will be used to deliver the required experience on PDP and checkout page?
+**Question 1: Based on a store’s operating hours, if a BOPIS order cannot be fulfilled same-day, how will HotWax deliver PDP experience?** 
 
-#### Question 2: If a client uses google my business, can we integrate and migrate store operating details from there?
+Answer: The StoreLookup API will fetch day-wise store operating hours and cut off time, the BOPIS PDP App will read this data and accordingly display the pick-up options.
 
-#### Question 3: Do we have a predefined list of holidays that we can by default offer our clients?
+**Question 2: If a client uses Google My Business, can we integrate and migrate store operating details from there?**
+
+Answer: At present, HotWax does not support day-wise operating hours from Google My Business. However, an integration with Google My Business can be initiated to sync store operating details from there.
+
+**Question 3: Do we have a predefined list of holidays that we can by default offer our clients?**
+
+Answer: HotWax will create and save the temporal expressions based on a merchant’s list of holidays, indicating which day of a month or year will be a holiday.
