@@ -1,6 +1,6 @@
 # Re-route fulfillment
 
-## BOPIS customers should have alternate options incase the store the requested pickup at is unable to fulfill their order.
+## BOPIS customers should have alternative options in case the store where they requested pickup is unable to fulfill their order.
 
 Re-route fulfillment will allow retailer to offer their customers alternate fulfillment options when they are unable to fulfill a pickup order from the originally selected location by the customer. After a fulfillment team member rejects an item from their BOPIS dashboard, the customer will be presented with option to pickup elsewhere or get the item shipped to them. This is far more convenient for customers that want the product and don't simply want to cancel their order if a product cannot be picked up as they originally intended. Retailers that offer this to their customers will save sales that would otherwise be lost due to inventory discrepancy.
 
@@ -16,7 +16,7 @@ Retailers that want to start using this function will need to connect with HotWa
 
 *Customer quote*: This feature will definitely be a great addition. Looking forward to it.
 
-To start using this feature, retailers should start using the reject order function and connect with HotWax Support to setup their mail template to cusotmers.
+To start using this feature, retailers should start using the reject order function and connect with HotWax Support to setup their mail template to customers.
 
 ### FAQs
 
