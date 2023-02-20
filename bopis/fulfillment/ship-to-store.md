@@ -11,20 +11,20 @@ Retailers using Hotwax Commerce can change their frontend experience for product
 
 ### FAQs
 
-Q1: What will the product detail page (PDP) display when the customer searches for all available BOPIS locations and some pickup locations have inventory while others do not?
+**Question 1: What will the product detail page (PDP) display when the customer searches for all available BOPIS locations and some pickup locations have inventory while others do not?**
 
 Answer: Pickup locations with available inventory will display the "Pickup Today" option, while pickup locations without inventory will show "Ship to Store'' or "Pickup in Two Days" option. Regardless of the inventory availability, all pickup locations will be sorted alphabetically. 
 
-Q2: Will the inventory count of a pickup location increase when a product is shipped there from another facility for pickup?
+**Question 2: Will the inventory count of a pickup location increase when a product is shipped there from another facility for pickup?**
 
 Answer: No, the inventory count will not increase at the pickup location as it will not recieve any new inventory but a ready shipment which will go through pick-pack-ship status.
 
 ### Internal FAQs
 
-Q1: How will HotWax OMS differentiate these orders from regular shipping orders and same day pickup orders?
+**Question 1: How will HotWax OMS differentiate these orders from regular shipping orders and same day pickup orders?**
 
 Answer: HotWax OMS will differentiate these orders by assigning a unique line item property "ship_to_store" that differentiates them from other order items.
 
-Q2: What will be the status progression of these orders in HotWax?
+**Question 2: What will be the status progression of these orders in HotWax?**
 
 Answer: Orders will initially have a "created" status, which will change to "approved" once payment is received. After that, the order will be marked as "shipped" once it is shipped to the designated pickup location from the facility with inventory. When the pickup location receives the order, it will be marked as "scheduled," and the customer will be notified to collect their order. Finally, once the order has been handed over to the customer, the status will change to "delivered."
