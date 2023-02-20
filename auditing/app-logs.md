@@ -10,8 +10,24 @@ App logs will allow HotWax support to determine what actions were taken within t
 
 HotWax support may now access the error logs from apps and the browser.
 
-## Testimony
+### Testimony
 
 *Internal quote*: Sometimes apps experience unexpected glitches. Error logs will be a great help for developers to quickly debug and address clients issues.
 
 *Customer quote*: Our Import App is stuck, and we are unable to locate any errors. How do we identify and resolve the issue?
+
+### FAQs
+
+**Question 1: Will the apps logs show entire logs or just the error logs?**
+
+Answer: Users can access the entire set of logs data and then locate the errors.
+
+**Question 2: Is it also possible to view the sequence of actions performed in an app?**
+
+Answer: Yes, app logs will include a "stack trace" to read and analyze the array of actions performed in apps. Developers can easily determine where and how an error occurred, this entire set of data essentially helps in debugging. In the future, HotWax will also explicitly display logging that shows which specific lines of code generated errors.
+
+### Internal FAQs
+
+**Question 1: Would HotWax give a feature to search through logs?**
+
+Answer: Yes, HotWax will support the search option for logs.

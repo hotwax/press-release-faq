@@ -3,7 +3,7 @@
 
 ## Shoppers on B2C Shopify stores want to be able to see how far pick up locations are from them.
 
-Store distance computation will allow customers to enter their loction on a product detail page to find stores near them that offer store pick up. Results will include a distance to pick up location so that customers can make purchasing descisions based on actual travel times. Pick up locations that are markedly close to a shopper may encourage them to make a purchase that would otherwise be postponed or dropped all together.
+Store distance computation will allow customers to enter their location on a product detail page to find stores near them that offer store pick up. Results will include a distance to pick up location so that customers can make purchasing descisions based on actual travel times. Pick up locations that are markedly close to a shopper may encourage them to make a purchase that would otherwise be postponed or dropped all together.
 
 When distance is not computed in the BOPIS PDP experience customers are required to look up store addresses on Google Maps to determine travel distance before committing to a purchase. Distance computation becomes even more important for customers when they are cross evaluating multiple pickup locations. Forcing customers to research commute factors before placing BOPIS orders had a direct negative impact on online conversion.
 
