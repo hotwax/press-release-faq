@@ -4,7 +4,7 @@ When a product is not available for same day pickup, customers can still place a
 
 Customers who live in apartment buildings often face delivery restrictions, forcing them to look for store pickup options. If a product is not available for same-day pickup due to stock outs, customers are forced to repeatedly check store inventory for pickup, encouraging cart abandonment and lost sales.
 
-Allowing customers to place BOPIS orders without inventory constraint eliminates the frustration of constantly checking for same-day pickup availability. The OMS will process these orders as regular shipping orders and intelligently route the order to the pickup location. Once the order arrives at the store, store associates will change the status of orders in OMS to “scheduled” and notify customers to pick up their orders.
+Allowing customers to place BOPIS orders without inventory constraint eliminates the frustration of constantly checking for same-day pickup availability. The OMS will process these orders as regular shipping orders and intelligently route the order to a fulfillment location where inventory is available and ship them to the pickup location selected by the customer. Once the order arrives at the store, store associates will change the status of orders in OMS to “scheduled” and notify customers to pick up their orders.
 
 Retailers using Hotwax Commerce can change their frontend experience for products which are unavailable for same day pick-up from 'Out of Stock' to 'Ship to store’ or ‘Pick up in two days’. In the backend, the checkInventory API will fetch all available BOPIS locations and for locations where product inventory is out of stock the PDP will display a pickup later option.
 
