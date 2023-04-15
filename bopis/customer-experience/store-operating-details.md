@@ -28,7 +28,7 @@ Answer: Yes, since the pick-up time will be based on a store’s operating hours
 
 **Question 1: Based on a store’s operating hours, if a BOPIS order cannot be fulfilled same-day, how will HotWax deliver PDP experience?** 
 
-Answer: The StoreLookup API will fetch day-wise store operating hours and cut off time, the BOPIS PDP App will read this data and accordingly display the pick-up options.
+Answer: The storeLookup API will fetch day-wise store operating hours and cut off time, the BOPIS PDP App will read this data and accordingly display the pick-up options.
 
 **Question 2: If a client uses Google My Business, can we integrate and migrate store operating details from there?**
 

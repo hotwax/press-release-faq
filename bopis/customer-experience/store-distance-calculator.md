@@ -40,4 +40,4 @@ Answer: Yes, if the customer has a saved pick up location, they will always expe
 
 **Question 1: Do any APIs need to be extended for this feature?**
 
-Answer: Yes. As of today two APIs are used to power the PDP BOPIS experience. Store details are fetched from the facility SOLR doc today and stores with avaialbe inventory are fetched using the Check Inventory API. Fetching computed distance may have to be an additional API call that is made after valid stores and their store details are fetched. I don't think the existing APIs should support this dynamic calculation because it goes beyond their responsbilites.
+Answer: Yes. As of today two APIs are used to power the PDP BOPIS experience. Store details are fetched from the facility SOLR doc today and stores with available inventory are fetched using the checkInventory API. Fetching computed distance may have to be an additional API call that is made after valid stores and their store details are fetched. I don't think the existing APIs should support this dynamic calculation because it goes beyond their responsbilites.
