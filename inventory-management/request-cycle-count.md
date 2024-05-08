@@ -40,6 +40,17 @@ Answer: TBD
 
 Answer: A communication event will be created for a group of people associated with the facility where cycle count is requested.
 
+## Technical design
+When performing cycle counts at stores, inventory planning teams analyze inventory level for products at facilities to ensure that they are allocating enough inventory of every product that a store should be stocking. A common part of this inventory planning procedure is to ensure accurate inventory levels at all facilities with a directed cycle count where the store teams are instructed to count exact SKUs.
 
+When a cycle count is imported, it is stored in the Inventory Count Import and Inventory Count Import Item entities in a “Created” status that a facility has created the cycle count. In order to offer directed cycle counts, the OMS will move the responsibility of creating the cycle count to the planning team. 
 
+This created cycle count will act as a task list when in the “Created” state. Once the planning phase of the cycle count is completed, the cycle count will be assigned a facility and moved to an “Approved” status. Once in an approved status, the stores will be able to see it on their inventory count dashboard as an open cycle count that they need to execute.
 
+Once a store starts counting, they move the approved cycle count into an “In Progress” status. As they count each item the cycle count status remains in “In Progress” until the store updates it manually to the next status. Manual transition allows stores to continue a count in multiple sessions, and then only submit a count once it has been fully completed.
+
+As each item is counted, the user id that counted each item is registered in the Inventory Count Import Item record allowing for audit and traceability of who conducted a count.
+
+After submitting a count, the inventory count moves to the “Counted” status which presents it to reviewers to approve or reject each item counted on the cycle count. As each item is reviewed, they can reject items that they do not deem accurate and within acceptable tolerances and request a recount. Requesting a recount, rejects the initial count and adds the same product back into the Inventory Count in an “In Progress” status. If the reviewer chooses to have the facility reprocess the cycle count, they can move it back to the In Progress status. In Progress cycle counts with rejected count items will display with a badge on the find screen indicating that they include rejected items.
+
+After all items have been addressed, either by accepting or rejecting item counts, the reviewer will move the Inventory Count Import record into the “Completed” status. If none of the items are accepted from the count, then the Inventory Count Import record can only be moved to the “Rejected” status.
